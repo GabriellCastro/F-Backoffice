@@ -11,15 +11,15 @@ The Gestão app has been designed to streamline the back office team's work with
 
 ```bash
 # Run the git clone command to clone the repository
-$ git clone git@github.com:GabriellCastro/Backoffice_frontend.git
+$ git clone git@github.com:GabriellCastro/F-Backoffice.git
 
 # Enter the cloned repository folder
-$ cd Backoffice_frontend
+$ cd F-Backoffice
 
 # Run yarn to install dependencies
 $ yarn
 
-# At the root of the project (Backoffice_frontend)
+# At the root of the project (F-Backoffice)
 # Change the name from .env.example to .env
 
 # To start the application
